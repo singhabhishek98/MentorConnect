@@ -16,27 +16,15 @@
 - **Database**: MySQL
 - **Version Control**: Git & GitHub
 
-## 📷 Screenshots
-![Mentor Connect Homepage](https://via.placeholder.com/800x400?text=Project+Screensho)
-<img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="800" height="400" alt="Mentor Connect Homepage">  
-<table>
-  <tr>
-    <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage"></td>
-    <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard"></td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage">
-  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard">
-</p>
-<p align="center">
-  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage" style="border: 2px solid #ccc; padding: 5px; margin-right: 20px;">
-  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard" style="border: 2px solid #ccc; padding: 5px;">
-</p>
-
-
-
-
+## 📷 Screenshots 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage"></td>
+      <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard"></td>
+    </tr>
+  </table>
+</div>
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
