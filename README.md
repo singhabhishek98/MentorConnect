@@ -25,7 +25,10 @@
     <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard"></td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage">
+  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard">
+</p>
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
