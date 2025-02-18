@@ -18,7 +18,13 @@
 
 ## 📷 Screenshots
 ![Mentor Connect Homepage](https://via.placeholder.com/800x400?text=Project+Screensho)
-![Mentor Connect Homepage](https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png)
+<img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="800" height="400" alt="Mentor Connect Homepage">  
+<table>
+  <tr>
+    <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage"></td>
+    <td><img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard"></td>
+  </tr>
+</table>
 
 ## ⚙️ Installation & Setup
 1. Clone the repository:
@@ -33,8 +39,6 @@
 4. Import the SQL file into MySQL to set up the database.
 5. Open the project in a browser and start using Mentor Connect!
 
-## 📄 License
-This project is licensed under the MIT License.
 
 ## 📬 Contact
 - **Author**: Abhishek Kumar Singh  
