@@ -29,6 +29,15 @@
   <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage">
   <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard">
 </p>
+<p align="center">
+  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/1.png" width="400" height="200" alt="Mentor Connect Homepage" style="border: 2px solid #ccc; padding: 5px; margin-right: 20px;">
+  <img src="https://github.com/singhabhishek98/MentorConnect/blob/main/Screen%20Shot/4.png" width="400" height="200" alt="Mentor Connect Dashboard" style="border: 2px solid #ccc; padding: 5px;">
+</p>
+
+
+
+
+
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
